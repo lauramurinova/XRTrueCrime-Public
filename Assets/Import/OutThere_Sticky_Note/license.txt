@@ -1,0 +1,11 @@
+Model Information:
+* title:	OutThere Sticky Note
+* source:	https://sketchfab.com/3d-models/outthere-sticky-note-7cd5c7e5be624ca48e072326ed6a1da2
+* author:	Gavin_McAllister (https://sketchfab.com/Gavin_McAllister)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "OutThere Sticky Note" (https://sketchfab.com/3d-models/outthere-sticky-note-7cd5c7e5be624ca48e072326ed6a1da2) by Gavin_McAllister (https://sketchfab.com/Gavin_McAllister) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

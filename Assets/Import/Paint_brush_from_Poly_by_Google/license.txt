@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paint brush from Poly by Google
+* source:	https://sketchfab.com/3d-models/paint-brush-from-poly-by-google-6c370816edee4690ac9ef67189500b68
+* author:	IronEqual (https://sketchfab.com/ie-niels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paint brush from Poly by Google" (https://sketchfab.com/3d-models/paint-brush-from-poly-by-google-6c370816edee4690ac9ef67189500b68) by IronEqual (https://sketchfab.com/ie-niels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

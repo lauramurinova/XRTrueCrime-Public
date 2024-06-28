@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flashlight - Fenix_FD41
+* source:	https://sketchfab.com/3d-models/flashlight-fenix-fd41-ea097c579aff4b428f5ff728bc751bf7
+* author:	andrea.notarstefano (https://sketchfab.com/andrea.notarstefano)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flashlight - Fenix_FD41" (https://sketchfab.com/3d-models/flashlight-fenix-fd41-ea097c579aff4b428f5ff728bc751bf7) by andrea.notarstefano (https://sketchfab.com/andrea.notarstefano) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
